@@ -1,0 +1,5 @@
+The goal of this tier is to get more blocks going in a rational way.
+1. Add textures to the block.
+2. Draw lots of blocks in a reasonably efficient way.
+3. Make sure that you are not comitting any major sins when rendering. 
+4. Optionally support rendering in two stages, one for transparents and one for opaques.

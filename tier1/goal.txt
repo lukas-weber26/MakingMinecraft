@@ -1,0 +1,5 @@
+Goal of tier one: 
+Make a single block.
+Make sure that you can move around the block with controlls.
+These controlls should actually work nicely....
+Drawing the block should use functions and be relatively repeatable. Maybe go ahead and draw two blocks.
